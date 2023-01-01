@@ -1,0 +1,38 @@
+table {
+    align-content: left;
+    width: 600px;
+    height: 100px;
+    border: 2px solid black;
+    border-collapse: collapse;
+    font-family: Roboto Mono;
+    font-weight: 200;
+    margin: 30px auto;
+}
+
+th {
+    padding: 10px;
+    text-align: left;
+    border: 2px solid black;
+    font-weight: 400;
+}
+
+td {
+    padding: 10px;
+    text-align: left;
+    border: 2px solid black;
+}
+
+#orange {
+   color: white;
+   background-color: #ffa500;
+}
+
+#blue {
+    color: white;
+    background-color: #4f4fff;
+ }
+
+ #green {
+    color: white;
+    background-color: #16c03b;
+ }
